@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Payments-Razorpay-02042B?logo=razorpay&logoColor=white">
 </p>
 
-**An intelligent, AI-powered career platform that revolutionizes the job hunting experience through automated resume enhancement, intelligent job matching, AI mock interviews, corporate fellowships, and community-driven networking.**
+**An  intelligent, AI-powered career platform that revolutionizes the job hunting experience through automated resume enhancement, intelligent job matching, AI mock interviews, corporate fellowships, and community-driven networking.**
 
 [Live Demo](https://careerpilotyyy.netlify.app/) • [Features](#-features) • [Tech Stack](#-tech-stack) • [Getting Started](#-getting-started) • [API Reference](./API_DOCS/README.md) • [Architecture](./ARCHITECTURE.md) • [Contributing](./CONTRIBUTION.md)
 
